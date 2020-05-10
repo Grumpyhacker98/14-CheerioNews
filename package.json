@@ -1,0 +1,27 @@
+{
+  "name": "14-cheerionews",
+  "version": "1.0.0",
+  "description": "cheerio news scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxL999/14-CheerioNews.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxL999/14-CheerioNews/issues"
+  },
+  "homepage": "https://github.com/MaxL999/14-CheerioNews#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mongoose": "^5.9.13"
+  }
+}
