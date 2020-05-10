@@ -2,7 +2,7 @@
   "name": "14-cheerionews",
   "version": "1.0.0",
   "description": "cheerio news scraping",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "node server.js",
     "start": "node server.js"
